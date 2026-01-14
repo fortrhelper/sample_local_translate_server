@@ -1,4 +1,4 @@
-# A sample NLLB + CTranslate2 Server for Visual Novel Translate
+# A sample NLLB + CTranslate2 Server for Visual Novel Translate (https://apps.microsoft.com/detail/9NJBR6DV99DM)
 
 This is a simple Python server that hosts a CTranslate2-optimized NLLB model for local offline translation.
 
