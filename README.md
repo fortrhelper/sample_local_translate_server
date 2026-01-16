@@ -7,7 +7,7 @@ This is a simple Python server that hosts a CTranslate2-optimized NLLB model for
 - [Python 3.8+](https://apps.microsoft.com/detail/9PNRBTZXMB4Z?hl=en-us&gl=US&ocid=pdpshare)
 
 ## 1. Purpose
-This directory contains a lightweight implementation of a local translation server. Its primary goal is to wrap complex AI models (like Meta's **NLLB-200**) into a simple local API.
+NLLB directory contains a lightweight implementation of a local translation server. Its primary goal is to wrap complex AI models (like Meta's **NLLB-200**) into a simple local API.
 * **The Bridge**: It allows the app to communicate with a local AI model just as it would with an online service like Google Translate.
 * **Local Processing**: It handles model loading, text inference, and result delivery entirely on your machine.
 
