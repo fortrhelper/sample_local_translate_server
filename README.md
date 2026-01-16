@@ -28,7 +28,7 @@ The scripts are built upon industry-leading open-source technologies:
 * **Maximum Privacy**: Ideal for sensitive content that should not be shared with third parties.
 * **Resource Utilization**: Leverages your own hardware (CPU/GPU) for high-performance, cost-free translation.
 
-## 5. Installation & Setup
+## 5. Installation & Setup💻
 1. **Download & Locate**: Download all files to your local machine. 
 2. **Run the Script**: Simply double-click on `run_server.bat` to launch the server.
 3. **Automatic Setup**: On the first launch, the script will automatically set up the environment and download the required AI models. This may take several minutes depending on your internet speed.
